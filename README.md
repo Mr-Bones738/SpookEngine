@@ -1,0 +1,1 @@
+Requires GLFW3, LibPNG and by extension ZLib. glad.h is provided, but you have to include it yourself.
